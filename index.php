@@ -1,5 +1,5 @@
 <?php
-header("Location: login.php");
+header("Location: login.html");
 exit();
 ?>
 <!-- This won't be shown if header works, but stays as fallback -->
